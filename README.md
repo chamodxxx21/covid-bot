@@ -22,6 +22,8 @@ special thanks to - https://github.com/TinuraD
 #you can join our offical chanel - https://t.me/develop_world
 
 
+#you can develop hekoru click below buttion 
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chamodxxx21/covid-bot.git)
 
